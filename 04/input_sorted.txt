@@ -1,0 +1,1106 @@
+56 Guard #1487 begins shift
+14 falls asleep
+40 wakes up
+53 Guard #1493 begins shift
+4 falls asleep
+5 wakes up
+22 falls asleep
+43 wakes up
+57 Guard #103 begins shift
+25 falls asleep
+47 wakes up
+52 falls asleep
+58 wakes up
+1 Guard #2389 begins shift
+36 falls asleep
+44 wakes up
+49 falls asleep
+56 wakes up
+52 Guard #3391 begins shift
+0 falls asleep
+5 wakes up
+20 falls asleep
+36 wakes up
+1 Guard #3253 begins shift
+29 falls asleep
+57 wakes up
+59 Guard #641 begins shift
+6 falls asleep
+32 wakes up
+4 Guard #131 begins shift
+8 falls asleep
+29 wakes up
+2 Guard #2797 begins shift
+9 falls asleep
+51 wakes up
+50 Guard #3391 begins shift
+1 falls asleep
+15 wakes up
+25 falls asleep
+40 wakes up
+49 Guard #2437 begins shift
+3 falls asleep
+50 wakes up
+4 Guard #641 begins shift
+23 falls asleep
+42 wakes up
+2 Guard #1493 begins shift
+17 falls asleep
+20 wakes up
+23 falls asleep
+36 wakes up
+53 Guard #2447 begins shift
+5 falls asleep
+42 wakes up
+0 Guard #2389 begins shift
+11 falls asleep
+41 wakes up
+57 Guard #131 begins shift
+18 falls asleep
+26 wakes up
+33 falls asleep
+37 wakes up
+52 falls asleep
+53 wakes up
+54 Guard #619 begins shift
+4 falls asleep
+38 wakes up
+48 falls asleep
+59 wakes up
+59 Guard #1613 begins shift
+50 falls asleep
+57 wakes up
+4 Guard #3253 begins shift
+36 falls asleep
+37 wakes up
+41 falls asleep
+51 wakes up
+58 Guard #1033 begins shift
+31 falls asleep
+44 wakes up
+59 Guard #131 begins shift
+36 falls asleep
+40 wakes up
+52 falls asleep
+58 wakes up
+48 Guard #2969 begins shift
+1 falls asleep
+38 wakes up
+0 Guard #2969 begins shift
+26 falls asleep
+29 wakes up
+0 Guard #1613 begins shift
+11 falls asleep
+38 wakes up
+42 falls asleep
+43 wakes up
+56 Guard #2797 begins shift
+20 falls asleep
+53 wakes up
+0 Guard #1487 begins shift
+24 falls asleep
+50 wakes up
+2 Guard #443 begins shift
+40 falls asleep
+57 wakes up
+56 Guard #1613 begins shift
+13 falls asleep
+29 wakes up
+41 falls asleep
+46 wakes up
+1 Guard #3253 begins shift
+55 falls asleep
+56 wakes up
+59 Guard #2089 begins shift
+20 falls asleep
+22 wakes up
+38 falls asleep
+43 wakes up
+47 falls asleep
+59 wakes up
+3 Guard #131 begins shift
+12 falls asleep
+55 wakes up
+4 Guard #1487 begins shift
+30 falls asleep
+37 wakes up
+41 falls asleep
+45 wakes up
+57 Guard #1033 begins shift
+12 falls asleep
+15 wakes up
+30 falls asleep
+45 wakes up
+51 falls asleep
+55 wakes up
+58 Guard #1493 begins shift
+23 falls asleep
+42 wakes up
+0 Guard #1487 begins shift
+8 falls asleep
+53 wakes up
+50 Guard #1373 begins shift
+1 falls asleep
+34 wakes up
+51 falls asleep
+56 wakes up
+47 Guard #641 begins shift
+2 falls asleep
+42 wakes up
+0 Guard #641 begins shift
+17 falls asleep
+35 wakes up
+57 Guard #1033 begins shift
+18 falls asleep
+21 wakes up
+31 falls asleep
+59 wakes up
+58 Guard #2797 begins shift
+23 falls asleep
+58 wakes up
+56 Guard #1613 begins shift
+35 falls asleep
+44 wakes up
+52 falls asleep
+55 wakes up
+0 Guard #2417 begins shift
+30 falls asleep
+50 wakes up
+3 Guard #1487 begins shift
+21 falls asleep
+30 wakes up
+44 falls asleep
+56 wakes up
+57 Guard #3023 begins shift
+29 falls asleep
+35 wakes up
+43 falls asleep
+45 wakes up
+52 falls asleep
+55 wakes up
+50 Guard #2447 begins shift
+5 falls asleep
+16 wakes up
+38 falls asleep
+56 wakes up
+59 Guard #3253 begins shift
+56 falls asleep
+57 wakes up
+0 Guard #2089 begins shift
+14 falls asleep
+18 wakes up
+24 falls asleep
+41 wakes up
+48 Guard #443 begins shift
+2 falls asleep
+8 wakes up
+14 falls asleep
+21 wakes up
+25 falls asleep
+41 wakes up
+55 falls asleep
+59 wakes up
+59 Guard #131 begins shift
+15 falls asleep
+43 wakes up
+0 Guard #1613 begins shift
+9 falls asleep
+24 wakes up
+28 falls asleep
+45 wakes up
+0 Guard #131 begins shift
+7 falls asleep
+16 wakes up
+32 falls asleep
+51 wakes up
+0 Guard #2389 begins shift
+10 falls asleep
+48 wakes up
+3 Guard #3391 begins shift
+13 falls asleep
+39 wakes up
+42 falls asleep
+58 wakes up
+58 Guard #641 begins shift
+16 falls asleep
+34 wakes up
+3 Guard #1487 begins shift
+46 falls asleep
+56 wakes up
+3 Guard #3391 begins shift
+13 falls asleep
+41 wakes up
+45 falls asleep
+55 wakes up
+0 Guard #2089 begins shift
+39 falls asleep
+49 wakes up
+57 Guard #1033 begins shift
+42 falls asleep
+56 wakes up
+1 Guard #1487 begins shift
+38 falls asleep
+48 wakes up
+59 Guard #2683 begins shift
+54 Guard #2089 begins shift
+3 falls asleep
+13 wakes up
+18 falls asleep
+58 wakes up
+1 Guard #1493 begins shift
+26 falls asleep
+33 wakes up
+42 falls asleep
+43 wakes up
+57 Guard #619 begins shift
+11 falls asleep
+16 wakes up
+28 falls asleep
+39 wakes up
+42 falls asleep
+50 wakes up
+54 falls asleep
+57 wakes up
+4 Guard #641 begins shift
+31 falls asleep
+48 wakes up
+59 Guard #1373 begins shift
+17 falls asleep
+40 wakes up
+56 Guard #3391 begins shift
+17 falls asleep
+21 wakes up
+28 falls asleep
+46 wakes up
+1 Guard #2417 begins shift
+24 falls asleep
+53 wakes up
+56 Guard #619 begins shift
+13 falls asleep
+26 wakes up
+41 falls asleep
+57 wakes up
+0 Guard #2389 begins shift
+28 falls asleep
+53 wakes up
+56 Guard #3253 begins shift
+36 falls asleep
+53 wakes up
+51 Guard #3391 begins shift
+3 falls asleep
+45 wakes up
+4 Guard #3253 begins shift
+23 falls asleep
+41 wakes up
+46 falls asleep
+56 wakes up
+56 Guard #443 begins shift
+31 falls asleep
+59 wakes up
+52 Guard #2797 begins shift
+2 falls asleep
+24 wakes up
+59 Guard #2797 begins shift
+14 falls asleep
+24 wakes up
+42 falls asleep
+50 wakes up
+57 Guard #2389 begins shift
+45 falls asleep
+50 wakes up
+3 Guard #1493 begins shift
+12 falls asleep
+59 wakes up
+56 Guard #619 begins shift
+29 falls asleep
+55 wakes up
+0 Guard #3253 begins shift
+51 falls asleep
+59 wakes up
+4 Guard #3253 begins shift
+36 falls asleep
+52 wakes up
+0 Guard #2417 begins shift
+17 falls asleep
+46 wakes up
+50 falls asleep
+51 wakes up
+57 Guard #1487 begins shift
+24 falls asleep
+59 wakes up
+59 Guard #2389 begins shift
+15 falls asleep
+46 wakes up
+50 falls asleep
+58 wakes up
+59 Guard #1613 begins shift
+40 falls asleep
+57 wakes up
+57 Guard #131 begins shift
+7 falls asleep
+21 wakes up
+59 Guard #2089 begins shift
+14 falls asleep
+44 wakes up
+0 Guard #2683 begins shift
+2 Guard #2437 begins shift
+29 falls asleep
+58 wakes up
+0 Guard #443 begins shift
+32 falls asleep
+51 wakes up
+0 Guard #2437 begins shift
+10 falls asleep
+42 wakes up
+56 Guard #2389 begins shift
+21 falls asleep
+34 wakes up
+49 falls asleep
+59 wakes up
+57 Guard #131 begins shift
+24 falls asleep
+37 wakes up
+59 Guard #131 begins shift
+17 falls asleep
+31 wakes up
+56 Guard #641 begins shift
+12 falls asleep
+30 wakes up
+59 Guard #443 begins shift
+23 falls asleep
+33 wakes up
+0 Guard #1373 begins shift
+30 falls asleep
+38 wakes up
+54 falls asleep
+55 wakes up
+49 Guard #2969 begins shift
+1 falls asleep
+10 wakes up
+29 falls asleep
+52 wakes up
+57 falls asleep
+58 wakes up
+59 Guard #1033 begins shift
+28 falls asleep
+55 wakes up
+50 Guard #2447 begins shift
+3 falls asleep
+13 wakes up
+24 falls asleep
+37 wakes up
+2 Guard #2417 begins shift
+18 falls asleep
+51 wakes up
+56 falls asleep
+59 wakes up
+46 Guard #2389 begins shift
+4 falls asleep
+28 wakes up
+45 falls asleep
+58 wakes up
+57 Guard #131 begins shift
+25 falls asleep
+52 wakes up
+56 Guard #2447 begins shift
+8 falls asleep
+21 wakes up
+25 falls asleep
+50 wakes up
+1 Guard #1373 begins shift
+48 falls asleep
+50 wakes up
+54 falls asleep
+57 wakes up
+2 Guard #641 begins shift
+28 falls asleep
+49 wakes up
+56 Guard #1487 begins shift
+32 falls asleep
+58 wakes up
+47 Guard #1373 begins shift
+2 falls asleep
+44 wakes up
+53 falls asleep
+54 wakes up
+57 falls asleep
+59 wakes up
+1 Guard #2969 begins shift
+31 falls asleep
+42 wakes up
+54 falls asleep
+55 wakes up
+56 Guard #2089 begins shift
+13 falls asleep
+59 wakes up
+0 Guard #2437 begins shift
+15 falls asleep
+44 wakes up
+51 falls asleep
+54 wakes up
+4 Guard #641 begins shift
+23 falls asleep
+55 wakes up
+59 Guard #641 begins shift
+29 falls asleep
+34 wakes up
+38 falls asleep
+55 wakes up
+3 Guard #641 begins shift
+30 falls asleep
+38 wakes up
+51 Guard #2417 begins shift
+5 falls asleep
+45 wakes up
+48 falls asleep
+54 wakes up
+3 Guard #3253 begins shift
+24 falls asleep
+56 wakes up
+56 Guard #2437 begins shift
+12 falls asleep
+56 wakes up
+59 Guard #2417 begins shift
+7 falls asleep
+33 wakes up
+44 falls asleep
+58 wakes up
+56 Guard #2417 begins shift
+7 falls asleep
+25 wakes up
+36 falls asleep
+56 wakes up
+2 Guard #641 begins shift
+36 falls asleep
+37 wakes up
+43 falls asleep
+50 wakes up
+49 Guard #1373 begins shift
+1 falls asleep
+37 wakes up
+40 falls asleep
+57 wakes up
+58 Guard #619 begins shift
+37 falls asleep
+52 wakes up
+2 Guard #619 begins shift
+15 falls asleep
+35 wakes up
+53 falls asleep
+55 wakes up
+47 Guard #131 begins shift
+4 falls asleep
+20 wakes up
+23 falls asleep
+49 wakes up
+2 Guard #3023 begins shift
+36 falls asleep
+55 wakes up
+1 Guard #2089 begins shift
+11 falls asleep
+27 wakes up
+0 Guard #131 begins shift
+7 falls asleep
+18 wakes up
+30 falls asleep
+50 wakes up
+1 Guard #2417 begins shift
+19 falls asleep
+24 wakes up
+43 falls asleep
+50 wakes up
+4 Guard #619 begins shift
+45 falls asleep
+54 wakes up
+3 Guard #1487 begins shift
+19 falls asleep
+40 wakes up
+48 falls asleep
+56 wakes up
+2 Guard #619 begins shift
+22 falls asleep
+33 wakes up
+36 falls asleep
+44 wakes up
+47 falls asleep
+51 wakes up
+57 falls asleep
+59 wakes up
+0 Guard #2437 begins shift
+13 falls asleep
+30 wakes up
+41 falls asleep
+42 wakes up
+0 Guard #443 begins shift
+15 falls asleep
+44 wakes up
+3 Guard #641 begins shift
+7 falls asleep
+37 wakes up
+4 Guard #2447 begins shift
+9 falls asleep
+38 wakes up
+51 Guard #2447 begins shift
+4 falls asleep
+17 wakes up
+46 falls asleep
+55 wakes up
+58 Guard #3023 begins shift
+33 falls asleep
+37 wakes up
+49 falls asleep
+58 wakes up
+2 Guard #619 begins shift
+19 falls asleep
+47 wakes up
+57 falls asleep
+59 wakes up
+58 Guard #2447 begins shift
+18 falls asleep
+28 wakes up
+35 falls asleep
+55 wakes up
+59 Guard #1613 begins shift
+13 falls asleep
+38 wakes up
+59 Guard #2389 begins shift
+25 falls asleep
+50 wakes up
+56 Guard #2417 begins shift
+17 falls asleep
+58 wakes up
+56 Guard #2969 begins shift
+53 falls asleep
+56 wakes up
+0 Guard #443 begins shift
+20 falls asleep
+46 wakes up
+2 Guard #619 begins shift
+36 falls asleep
+51 wakes up
+55 falls asleep
+56 wakes up
+53 Guard #2797 begins shift
+1 falls asleep
+56 wakes up
+1 Guard #2417 begins shift
+23 falls asleep
+32 wakes up
+57 Guard #3391 begins shift
+7 falls asleep
+13 wakes up
+18 falls asleep
+38 wakes up
+3 Guard #2797 begins shift
+19 falls asleep
+20 wakes up
+29 falls asleep
+56 wakes up
+53 Guard #103 begins shift
+4 falls asleep
+11 wakes up
+46 falls asleep
+51 wakes up
+0 Guard #619 begins shift
+32 falls asleep
+59 wakes up
+3 Guard #103 begins shift
+35 falls asleep
+37 wakes up
+58 Guard #1493 begins shift
+16 falls asleep
+34 wakes up
+38 falls asleep
+57 wakes up
+48 Guard #443 begins shift
+3 falls asleep
+56 wakes up
+1 Guard #619 begins shift
+7 falls asleep
+22 wakes up
+43 falls asleep
+52 wakes up
+58 Guard #443 begins shift
+31 falls asleep
+48 wakes up
+0 Guard #2437 begins shift
+21 falls asleep
+38 wakes up
+46 falls asleep
+51 wakes up
+58 Guard #1493 begins shift
+19 falls asleep
+56 wakes up
+4 Guard #2389 begins shift
+46 falls asleep
+51 wakes up
+59 Guard #1973 begins shift
+0 Guard #131 begins shift
+11 falls asleep
+58 wakes up
+48 Guard #2089 begins shift
+0 falls asleep
+29 wakes up
+41 falls asleep
+46 wakes up
+58 Guard #1493 begins shift
+34 falls asleep
+39 wakes up
+43 falls asleep
+47 wakes up
+4 Guard #3253 begins shift
+54 falls asleep
+57 wakes up
+58 Guard #2089 begins shift
+29 falls asleep
+57 wakes up
+2 Guard #2447 begins shift
+14 falls asleep
+27 wakes up
+32 falls asleep
+56 wakes up
+50 Guard #2447 begins shift
+1 falls asleep
+6 wakes up
+20 falls asleep
+40 wakes up
+57 Guard #3391 begins shift
+10 falls asleep
+24 wakes up
+38 falls asleep
+41 wakes up
+56 Guard #131 begins shift
+19 falls asleep
+37 wakes up
+3 Guard #2447 begins shift
+32 falls asleep
+47 wakes up
+0 Guard #1373 begins shift
+26 falls asleep
+59 wakes up
+1 Guard #1493 begins shift
+19 falls asleep
+42 wakes up
+4 Guard #3391 begins shift
+17 falls asleep
+18 wakes up
+29 falls asleep
+45 wakes up
+3 Guard #103 begins shift
+21 falls asleep
+37 wakes up
+48 falls asleep
+52 wakes up
+4 Guard #443 begins shift
+14 falls asleep
+42 wakes up
+51 falls asleep
+57 wakes up
+50 Guard #1487 begins shift
+1 falls asleep
+24 wakes up
+4 Guard #1493 begins shift
+14 falls asleep
+54 wakes up
+59 Guard #2437 begins shift
+13 falls asleep
+36 wakes up
+42 falls asleep
+59 wakes up
+0 Guard #1613 begins shift
+11 falls asleep
+42 wakes up
+52 falls asleep
+54 wakes up
+57 falls asleep
+58 wakes up
+3 Guard #1487 begins shift
+18 falls asleep
+24 wakes up
+37 falls asleep
+57 wakes up
+49 Guard #1493 begins shift
+0 falls asleep
+42 wakes up
+58 Guard #1613 begins shift
+21 falls asleep
+48 wakes up
+55 falls asleep
+59 wakes up
+50 Guard #3391 begins shift
+2 falls asleep
+42 wakes up
+45 falls asleep
+47 wakes up
+0 Guard #3391 begins shift
+33 falls asleep
+40 wakes up
+56 Guard #2389 begins shift
+48 falls asleep
+53 wakes up
+4 Guard #1373 begins shift
+26 falls asleep
+51 wakes up
+58 Guard #1373 begins shift
+30 falls asleep
+40 wakes up
+50 Guard #3391 begins shift
+1 falls asleep
+14 wakes up
+36 falls asleep
+50 wakes up
+58 Guard #2447 begins shift
+17 falls asleep
+19 wakes up
+38 falls asleep
+47 wakes up
+56 falls asleep
+58 wakes up
+2 Guard #1913 begins shift
+0 Guard #2437 begins shift
+20 falls asleep
+46 wakes up
+59 Guard #2797 begins shift
+18 falls asleep
+48 wakes up
+0 Guard #1613 begins shift
+35 falls asleep
+46 wakes up
+0 Guard #641 begins shift
+13 falls asleep
+47 wakes up
+2 Guard #619 begins shift
+24 falls asleep
+58 wakes up
+48 Guard #131 begins shift
+4 falls asleep
+25 wakes up
+49 Guard #1487 begins shift
+4 falls asleep
+52 wakes up
+0 Guard #2089 begins shift
+27 falls asleep
+50 wakes up
+1 Guard #1373 begins shift
+35 falls asleep
+36 wakes up
+41 falls asleep
+59 wakes up
+3 Guard #619 begins shift
+21 falls asleep
+29 wakes up
+50 Guard #1613 begins shift
+5 falls asleep
+9 wakes up
+41 falls asleep
+57 wakes up
+0 Guard #103 begins shift
+34 falls asleep
+49 wakes up
+0 Guard #1973 begins shift
+2 Guard #3253 begins shift
+12 falls asleep
+51 wakes up
+57 Guard #103 begins shift
+22 falls asleep
+37 wakes up
+57 Guard #2969 begins shift
+14 falls asleep
+54 wakes up
+53 Guard #2417 begins shift
+1 falls asleep
+35 wakes up
+52 falls asleep
+53 wakes up
+48 Guard #2389 begins shift
+5 falls asleep
+37 wakes up
+48 falls asleep
+58 wakes up
+56 Guard #1613 begins shift
+31 falls asleep
+42 wakes up
+0 Guard #1033 begins shift
+26 falls asleep
+53 wakes up
+1 Guard #2797 begins shift
+25 falls asleep
+35 wakes up
+38 falls asleep
+45 wakes up
+53 Guard #131 begins shift
+0 falls asleep
+42 wakes up
+3 Guard #1613 begins shift
+30 falls asleep
+53 wakes up
+0 Guard #443 begins shift
+34 falls asleep
+42 wakes up
+45 falls asleep
+53 wakes up
+1 Guard #443 begins shift
+27 falls asleep
+41 wakes up
+56 Guard #1613 begins shift
+49 falls asleep
+59 wakes up
+56 Guard #1033 begins shift
+21 falls asleep
+48 wakes up
+1 Guard #3023 begins shift
+31 falls asleep
+44 wakes up
+0 Guard #1493 begins shift
+11 falls asleep
+28 wakes up
+46 falls asleep
+54 wakes up
+50 Guard #103 begins shift
+1 falls asleep
+42 wakes up
+2 Guard #131 begins shift
+6 falls asleep
+41 wakes up
+4 Guard #3253 begins shift
+20 falls asleep
+49 wakes up
+4 Guard #1487 begins shift
+13 falls asleep
+49 wakes up
+52 Guard #103 begins shift
+0 falls asleep
+56 wakes up
+2 Guard #2089 begins shift
+52 falls asleep
+55 wakes up
+2 Guard #2437 begins shift
+34 falls asleep
+51 wakes up
+2 Guard #1033 begins shift
+24 falls asleep
+33 wakes up
+44 falls asleep
+51 wakes up
+53 Guard #1493 begins shift
+5 falls asleep
+40 wakes up
+2 Guard #3391 begins shift
+15 falls asleep
+18 wakes up
+23 falls asleep
+56 wakes up
+1 Guard #1493 begins shift
+9 falls asleep
+37 wakes up
+40 falls asleep
+53 wakes up
+53 Guard #2447 begins shift
+1 falls asleep
+51 wakes up
+59 Guard #3023 begins shift
+12 falls asleep
+46 wakes up
+0 Guard #2417 begins shift
+34 falls asleep
+49 wakes up
+52 falls asleep
+55 wakes up
+4 Guard #1373 begins shift
+15 falls asleep
+52 wakes up
+57 falls asleep
+59 wakes up
+49 Guard #2797 begins shift
+3 falls asleep
+36 wakes up
+59 Guard #2969 begins shift
+11 falls asleep
+28 wakes up
+36 falls asleep
+46 wakes up
+57 Guard #641 begins shift
+34 falls asleep
+37 wakes up
+0 Guard #2447 begins shift
+9 falls asleep
+55 wakes up
+0 Guard #619 begins shift
+39 falls asleep
+41 wakes up
+2 Guard #2969 begins shift
+28 falls asleep
+52 wakes up
+58 Guard #2389 begins shift
+47 falls asleep
+52 wakes up
+0 Guard #1487 begins shift
+14 falls asleep
+24 wakes up
+32 falls asleep
+40 wakes up
+53 Guard #2797 begins shift
+4 falls asleep
+40 wakes up
+2 Guard #1033 begins shift
+33 falls asleep
+35 wakes up
+43 falls asleep
+51 wakes up
+55 falls asleep
+56 wakes up
+2 Guard #619 begins shift
+15 falls asleep
+49 wakes up
+53 falls asleep
+55 wakes up
+50 Guard #3023 begins shift
+5 falls asleep
+13 wakes up
+21 falls asleep
+27 wakes up
+4 Guard #2389 begins shift
+49 falls asleep
+54 wakes up
+3 Guard #1033 begins shift
+19 falls asleep
+49 wakes up
+49 Guard #641 begins shift
+2 falls asleep
+56 wakes up
+59 Guard #2437 begins shift
+35 falls asleep
+54 wakes up
+2 Guard #2447 begins shift
+9 falls asleep
+58 wakes up
+1 Guard #1487 begins shift
+45 falls asleep
+46 wakes up
+50 falls asleep
+57 wakes up
+56 Guard #443 begins shift
+20 falls asleep
+46 wakes up
+50 falls asleep
+58 wakes up
+58 Guard #2437 begins shift
+32 falls asleep
+36 wakes up
+4 Guard #1033 begins shift
+26 falls asleep
+53 wakes up
+57 Guard #103 begins shift
+25 falls asleep
+57 wakes up
+59 Guard #1487 begins shift
+38 falls asleep
+39 wakes up
+42 falls asleep
+57 wakes up
+56 Guard #2389 begins shift
+42 falls asleep
+57 wakes up
+4 Guard #131 begins shift
+28 falls asleep
+57 wakes up
+0 Guard #443 begins shift
+8 falls asleep
+46 wakes up
+55 falls asleep
+58 wakes up
+1 Guard #1493 begins shift
+17 falls asleep
+42 wakes up
+51 Guard #103 begins shift
+0 falls asleep
+23 wakes up
+31 falls asleep
+53 wakes up
+2 Guard #1487 begins shift
+10 falls asleep
+41 wakes up
+48 falls asleep
+53 wakes up
+57 Guard #103 begins shift
+16 falls asleep
+41 wakes up
+51 Guard #3023 begins shift
+1 falls asleep
+47 wakes up
+0 Guard #131 begins shift
+13 falls asleep
+26 wakes up
+56 Guard #2447 begins shift
+49 falls asleep
+54 wakes up
+59 Guard #2417 begins shift
+16 falls asleep
+54 wakes up
+48 Guard #3253 begins shift
+5 falls asleep
+13 wakes up
+42 falls asleep
+48 wakes up
+56 falls asleep
+58 wakes up
+3 Guard #2389 begins shift
+46 falls asleep
+58 wakes up
+0 Guard #1493 begins shift
+32 falls asleep
+35 wakes up
+56 Guard #1373 begins shift
+31 falls asleep
+44 wakes up
+0 Guard #2389 begins shift
+32 falls asleep
+59 wakes up
+56 Guard #1487 begins shift
+39 falls asleep
+48 wakes up
+54 falls asleep
+56 wakes up
+51 Guard #1373 begins shift
+4 falls asleep
+20 wakes up
+37 falls asleep
+58 wakes up
+0 Guard #1033 begins shift
+50 falls asleep
+57 wakes up
+2 Guard #2389 begins shift
+13 falls asleep
+59 wakes up
+2 Guard #1373 begins shift
+32 falls asleep
+35 wakes up
+38 falls asleep
+53 wakes up
+57 Guard #1973 begins shift
+47 Guard #2417 begins shift
+3 falls asleep
+42 wakes up
+56 falls asleep
+57 wakes up
+1 Guard #2437 begins shift
+31 falls asleep
+59 wakes up
+54 Guard #2089 begins shift
+3 falls asleep
+53 wakes up
+0 Guard #1613 begins shift
+7 falls asleep
+59 wakes up
+4 Guard #2389 begins shift
+12 falls asleep
+40 wakes up
+1 Guard #641 begins shift
+23 falls asleep
+57 wakes up
+46 Guard #2969 begins shift
+5 falls asleep
+55 wakes up
+4 Guard #2969 begins shift
+30 falls asleep
+36 wakes up
